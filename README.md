@@ -1,16 +1,32 @@
-## Hi there 👋
+# CamdenDAO
 
-<!--
-**CamdenDAO/CamdenDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A decentralized protocol for consent, care, and community dividends.**
 
-Here are some ideas to get you started:
+CamdenDAO is a community-driven initiative emerging from The Curiosity Project and *Stable Genius*. We’re building a governance layer for real-world equity using web3 tools — with health care as our first use case.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What We’re Doing
+
+- Enabling patients to **track consent**
+- Reducing **waste in billing systems**
+- Sharing **dividends with the community** when outcomes improve
+
+## 📍 Pilot Site
+
+Camden Commons Clinic will be the first test location for:
+
+- Smart contracts that log consent and usage
+- Dashboards for stakeholders
+- $MAP token staking and dividends
+
+## 🚀 Status
+
+We’re preparing for testnet launch (Dec 2025) on the Ethereum Sepolia network. Smart contracts and documentation are in development.
+
+## 📘 Learn More
+
+- [Whitepaper v0.9 (PDF)](link-here)
+- [Join our Advisory Circle](mailto:contact@camdendao.org)
+
+## 🤝 License
+
+This project is licensed under the [MIT License](LICENSE).
