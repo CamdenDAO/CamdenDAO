@@ -30,20 +30,16 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 ---
 
 ## Core Components
+### 📊 $MAP Token Allocation
 
-### 1. $MAP Token
-
-- **Symbol:** $MAP
-- 
-- ### $MAP Token Allocation
-
-![MAP Token Allocation]assets/CamdenDAO_$MAP_Tokenomics_Allocation_12.1. 2025_10_55_01 PM.png
+![MAP Token Allocation](assets/CamdenDAO_$MAP_Tokenomics_Allocation_12.1. 2025_10_55_01 PM.png)
 
 **Token Distribution Summary:**
 - **Founding Team (10%)** – Vesting over 4 years  
 - **Community Treasury (30%)** – Funds public upgrades & proposals  
 - **Protocol Incentives (25%)** – For real contributions (e.g., consent tracking, waste detection)  
 - **Remaining (35%)** – Supports governance, adoption, liquidity, and ecosystem growth
+
 
 - **Function:** Utility + governance token
 - **Use Cases:** Validator staking, DAO voting, dividend eligibility, audit challenges
