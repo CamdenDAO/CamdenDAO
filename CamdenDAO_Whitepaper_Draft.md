@@ -87,6 +87,11 @@ CamdenDAO aligns with:
 - Licensed under the Community Tech Commons Agreement (2025 Draft)
 - Attribution required: “Built on the Curiosity Project’s CamdenDAO Framework”
 - All smart contracts open-sourced under MIT/GPL hybrid license
+---
+## Trademark Notice
+
+CamdenDAO™ and The Curiosity Project™ are trademarks of Maritza Alston and/or Camden Commons Clinic.  
+Unauthorized commercial use is not permitted without written consent.
 
 ---
 
@@ -94,6 +99,7 @@ CamdenDAO aligns with:
 
 **Project Steward:** Maritza Alston  
 **Base Clinic:** Camden Commons Clinic  
-**DAO Hub:** [DAO Hub: [https://github.com/CamdenDAO/CamdenDAO](https://github.com/CamdenDAO/CamdenDAO)
+**DAO Hub:** [CamdenDAO on GitHub](https://github.com/CamdenDAO/CamdenDAO)
+
 ]  
 **Repo:** github.com/curiosity-project/camdendao  
