@@ -89,6 +89,7 @@ CamdenDAO aligns with:
 - All smart contracts open-sourced under MIT/GPL hybrid license
 ---
 ## Trademark Notice
+- See [TRADEMARK.md](./TRADEMARK.md) for CamdenDAO's trademark and branding terms.
 
 CamdenDAO™ and The Curiosity Project™ are trademarks of Maritza Alston and/or Camden Commons Clinic.  
 Unauthorized commercial use is not permitted without written consent.
