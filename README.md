@@ -26,7 +26,7 @@ We’re preparing for testnet launch (Dec 2025) on the Ethereum Sepolia network.
 
 - 📄 Learn More
 
-- [Whitepaper v0.9 (PDF)](CamdenDAO_Whitepaper_v0.9.pdf)
+- [Whitepaper v0.9 (PDF)](CamdenDAO_Whitepaper_Draft.md)
 
 - [Join our Advisory Circle](mailto:njrit500@gmail.com)
 
