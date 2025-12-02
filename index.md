@@ -20,7 +20,7 @@ Welcome to **CamdenDAO**, part of the Curiosity Project. We're building transpar
 
 - [Whitepaper](CamdenDAO_Whitepaper_Draft.md)
 - [Tokenomics Chart (PNG)](../assets/MAP-Tokenomics-Allocation.png)
-- [Trademark Policy](../TRADEMARK.md)
+- [Trademark Policy](TRADEMARK.md)
 ---
 
 ## Learn More
