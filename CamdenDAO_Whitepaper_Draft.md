@@ -107,7 +107,7 @@ Unauthorized commercial use is not permitted without written consent.
 
 **Project Steward:** Maritza Alston  
 **Base Clinic:** Camden Commons Clinic  
-**DAO Hub:** [CamdenDAO on GitHub](https://github.com/CamdenDAO/CamdenDAO)
+**DAO Hub:** https://camdendao.github.io/CamdenDAO/
 
 ]  
 **Repo:** github.com/curiosity-project/camdendao  
