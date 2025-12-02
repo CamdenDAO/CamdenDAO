@@ -5,7 +5,7 @@ description: A decentralized protocol for consent, care, and community dividends
 
 # CamdenDAO
 
-Welcome to **CamdenDAO**, part of the [Curiosity Project](https://curiosity-project.org). We're building transparent, consent-first digital infrastructure for community health and equity.
+Welcome to **CamdenDAO**, part of the Curiosity Project. We're building transparent, consent-first digital infrastructure for community health and equity.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to **CamdenDAO**, part of the [Curiosity Project](https://curiosity-proj
 ## 📄 Key Docs
 
 - [Whitepaper](./CamdenDAO_Whitepaper_Draft.md)
-- [Tokenomics](./assets/CamdenDAO_$MAP_Tokenomics_Allocation.png)
+- [Tokenomics]assets/MAP-Tokenomics-Allocation.png
 - [Trademark Policy](./TRADEMARK.md)
 
 ---
