@@ -32,7 +32,7 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 ## Core Components
 ### 📊 $MAP Token Allocation
 
-![MAP Token Allocation](assets/CamdenDAO_$MAP_Tokenomics_Allocation_12.1. 2025_10_55_01 PM.png)
+![MAP Token Allocation](assets/MAP-Tokenomics-Allocation.png)
 
 **Token Distribution Summary:**
 - **Founding Team (10%)** – Vesting over 4 years  
