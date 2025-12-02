@@ -22,4 +22,4 @@ Any project or derivative based on CamdenDAO **must include the following notice
 
 ## Contact
 For branding, partnerships, or community use, contact:  
-📧 contact@camdendao.com
+📧 njritz500@gmail.com
