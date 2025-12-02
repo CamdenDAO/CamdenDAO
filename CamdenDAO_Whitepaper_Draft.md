@@ -94,5 +94,6 @@ CamdenDAO aligns with:
 
 **Project Steward:** Maritza Alston  
 **Base Clinic:** Camden Commons Clinic  
-**DAO Hub:** [TBD URL]  
+**DAO Hub:** [DAO Hub: [https://github.com/CamdenDAO/CamdenDAO](https://github.com/CamdenDAO/CamdenDAO)
+]  
 **Repo:** github.com/curiosity-project/camdendao  
