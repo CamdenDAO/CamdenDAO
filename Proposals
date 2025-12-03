@@ -1,1 +1,83 @@
+---
+title: Civic Cleanup Loop & Toll DAO Pilot
+status: DRAFT
+version: v0.1
+submitted-by: The Curiosity Project (CamdenDAO)
+date: 2025-12-02
+category: Governance, Ecosystem, Public Infrastructure
+not-yet-ratified: true
+---
+
+## Summary
+
+This proposal introduces a pilot initiative to explore **community-governed cleanup and infrastructure funding** via a **DAO-powered toll mechanism** in the City of Camden. 
+
+The concept blends real-world civic renewal with decentralized accountability: if digital infrastructure extracts value from Camden, the community should earn a share back through verified cleanup, care, and stewardship.
+
+---
+
+## Objectives
+
+- Establish a **Civic Toll** mechanism tied to internet traffic, verified geolocation, or public sector access
+- Direct a % of toll proceeds to:
+  - DAO-verified clean-up initiatives (e.g. waterfront pollution, broken walkways)
+  - Public health & infrastructure (including parks, air quality, and digital equity)
+  - DAO contributors who track, validate, or participate in cleanups via Consent Trace Dashboard
+
+---
+
+## How It Works (Pilot Design)
+
+1. **Smart Toll Layer**
+   - Deployed on city or partnership-owned infrastructure (Wi-Fi, public data nodes, network access)
+   - Transparent, tokenized logging of access events tied to geographic zones
+
+2. **Consent Trace Cleanup Protocol**
+   - Community nominates areas for cleanup or repair (like the Camden waterfront)
+   - Actions validated via Proof of Care, Waste Detector, and Geo-tagged attestation
+
+3. **Dividends Distributed**
+   - % of civic toll flows to:
+     - $MAP holders who stake on successful cleanups
+     - Clean-up teams, validators, and DAO contributors
+     - CamdenDAO Civic Infrastructure Fund
+
+---
+
+## Governance and Safeguards
+
+- Proposals require full DAO vote (or multisig council) for:
+  - Toll rate changes
+  - Payout logic
+  - New zone inclusion
+- Pilot capped at 6 months with full community review
+
+---
+
+## Strategic Rationale
+
+This is not a surveillance toll. It’s a **community dividend mechanism**:
+
+> “If value flows through our neighborhoods, care should flow back.”
+
+It honors those who maintain the commons, make visible what’s ignored, and prototype decentralized civic trust.
+
+---
+
+## Notes
+
+- Pilot requires partnerships with city infrastructure stakeholders, possibly in hybrid (off-chain + on-chain) format
+- Considered “non-extractive” — Camden residents can opt out and still benefit through public infrastructure dividends
+- CamdenDAO reserves the right to sunset, fork, or redesign based on pilot data and feedback
+
+---
+
+## Status
+
+✅ Drafted  
+🔲 Community Comment  
+🔲 Vote Scheduled  
+🔲 Ratified
+
+---
 
