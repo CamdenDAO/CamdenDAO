@@ -34,15 +34,28 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 
 ![MAP Token Allocation](assets/MAP-Tokenomics-Allocation.png)
 
-**Token Distribution Summary:**
-- **Founding Team (10%)** – Vesting over 4 years  
-- **Community Treasury (30%)** – Funds public upgrades & proposals  
-- **Protocol Incentives (25%)** – For real contributions (e.g., consent tracking, waste detection)  
-- **Remaining (35%)** – Supports governance, adoption, liquidity, and ecosystem growth
+### Updated Token Allocation
 
+- **Community Treasury** – 30%  
+  Supports proposals, public upgrades, and care innovations.
 
-- **Function:** Utility + governance token
-- **Use Cases:** Validator staking, DAO voting, dividend eligibility, audit challenges
+- **Protocol Incentives** – 25%  
+  Rewards for validators, consent attestation, repair work, and Proof of Care actions.
+
+- **Founding Team** – 10%  
+  Vested over 4 years. No early unlocks.
+
+- **Governance & Reputation Recovery** – 15%  
+  Used for repair tracks, youth sandbox staking, and slashing recovery.
+
+- **Partnerships & Ecosystem** – 10%  
+  For clinics, education hubs, and verified contributors.
+
+- **Liquidity & Market Access** – 10%  
+  Ensures onboarding access and decentralized exchange pools.
+
+**Total Supply**: 100 million $MAP  
+**Emission**: 10-year unlock with community votes governing adjustments.
 
 ### 2. ConsentLedger.sol
 
@@ -63,11 +76,38 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 
 ---
 
-## Governance
+## Governance & Participation
 
-- **Structure:** Quadratic voting, validator thresholds, slashing logic tree
-- **Tools:** DAO dashboard, proposal system, feedback channels
-- **Policies:** Open-source data governance, traceable rule changes, audit logs
+CamdenDAO uses a layered, equitable governance model that rewards care—not just code. Tools include:
+
+### Consent Trace Dashboard  
+Visualizes consent, care, dividends, and DAO participation in real-time.  
+→ Enables “Proof-of-Care” validation and community review.
+
+### Slashing & Repair  
+Governance violations follow a visible “Slashing Tree,” but CamdenDAO also enables redemption via a **Repair Track**.
+
+- **Level 1: Reflection Track** – Written reflection and community review  
+- **Level 2: Stewardship Track** – Shadow validation, glossary contributions  
+- **Level 3: Earnback Track** – Stake restoration after vote
+
+Transparency builds trust—and CamdenDAO believes justice should teach, not exile.
+
+### Fork Governance  
+In cases of deep disagreement, proposals may fork.  
+DAO members choose their path, and both remain visible in the Consent Dashboard.
+## Local Value Capture: Digital Toll Booth Proposal (In Review)
+
+A future CamdenDAO proposal explores introducing a micro-dividend model—a **local internet toll booth** logic that allocates a percentage of DAO-aligned service revenue back to the community treasury.
+
+This model would:
+- Register verified CamdenDAO-aligned services (e.g., clinics, validators, API tools)
+- Allocate a small programmable % of service earnings to the DAO pool
+- Route dividends transparently to health upgrades, training hubs, or innovation grants
+
+This proposal is under review and would be governed via on-chain vote.
+
+
 
 ---
 
