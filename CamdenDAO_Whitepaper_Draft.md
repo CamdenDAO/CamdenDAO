@@ -5,14 +5,14 @@
 
 ---
 
-## 📄 Executive Summary
+## Executive Summary
 
 CamdenDAO is a decentralized protocol committed to transparency, fairness, and shared benefit through a healthcare-focused decentralized autonomous organization (DAO).  
 Born from the real-world needs of families, clinics, and technologists in Camden, NJ, this DAO powers tools like the Consent Trace Dashboard, the $MAP staking economy, and clinic dividend frameworks.
 
 ---
 
-## 🌍 Vision & Mission
+## Vision & Mission
 
 **Vision:**  
 A world where every person owns their consent, shares in the value of fixing broken systems, and participates in building stronger, fairer digital public goods.
@@ -22,7 +22,7 @@ To decentralize health system governance through traceable consent, anti-waste t
 
 ---
 
-## 🔑 The Four Pillars
+## The Four Pillars
 
 Inspired by *Stable Genius 3*, CamdenDAO implements:
 
@@ -33,9 +33,9 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 
 ---
 
-## 🧱 Core Components
+## Core Components
 
-### 📊 $MAP Token Allocation
+### $MAP Token Allocation
 
 **Updated Distribution:**
 
@@ -60,25 +60,25 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 **Total Supply:** 100 million $MAP  
 **Emission:** 10-year unlock with community-governed adjustments
 
-🖼️ ![MAP Token Allocation](assets/MAP-Tokenomics-Allocation.png)
+ ![MAP Token Allocation](assets/MAP-Tokenomics-Allocation.png)
 
 ---
 
-### 🧾 ConsentLedger.sol
+### ConsentLedger.sol
 
 - Tracks on-chain consent by wallet and topic  
 - Transparent, auditable, fully indexable
 
 ---
 
-### 🛠 Waste Detector (v1)
+### Waste Detector (v1)
 
 - Off-chain tool scanning billing anomalies  
 - Routes flagged data to DAO review & dividend system
 
 ---
 
-### 💸 Camden Commons Dividend Engine
+### Camden Commons Dividend Engine
 
 For every $100 of recovered value:
 
@@ -88,18 +88,18 @@ For every $100 of recovered value:
 
 ---
 
-## 🏛 Governance & Participation
+## Governance & Participation
 
 CamdenDAO uses an equitable, layered model that rewards care—not just code.
 
-### 🔍 Consent Trace Dashboard
+### Consent Trace Dashboard
 
 Visualizes consent, care, dividends, and DAO activity  
-✅ Enables “Proof-of-Care” validation and review
+Enables “Proof-of-Care” validation and review
 
 ---
 
-### ✂️ Slashing & Repair Path
+### Slashing & Repair Path
 
 CamdenDAO uses a **Slashing Tree** with a parallel **Repair Track** to allow redemption:
 
@@ -114,7 +114,7 @@ CamdenDAO uses a **Slashing Tree** with a parallel **Repair Track** to allow red
 
 ---
 
-### 🪜 Fork Governance
+### Fork Governance
 
 - In deep disagreements, proposals may **fork**  
 - Members choose path  
@@ -122,7 +122,7 @@ CamdenDAO uses a **Slashing Tree** with a parallel **Repair Track** to allow red
 
 ---
 
-## 🌐 Local Value Capture: Civic Toll Booth (Proposal in Review)
+## Local Value Capture: Civic Toll Booth (Proposal in Review)
 
 A future DAO vote may introduce a **local internet toll logic**—a micro-dividend model to return value from digital infrastructure back to CamdenDAO.
 
@@ -135,11 +135,11 @@ A future DAO vote may introduce a **local internet toll logic**—a micro-divide
   - Youth training hubs  
   - Local health infrastructure
 
-📝 [Read the full proposal →](./proposals/civic-cleanup-toll-dao-pilot.md)
+[Read the full proposal →](./proposals/civic-cleanup-toll-dao-pilot.md)
 
 ---
 
-## 🧭 Ethical Framework
+## Ethical Framework
 
 CamdenDAO complies with:
 
@@ -149,7 +149,7 @@ CamdenDAO complies with:
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 - **Phase 1:** Pilot ConsentLedger + Dashboard at Camden Commons Clinic  
 - **Phase 2:** Launch $MAP staking & validator rewards  
@@ -158,7 +158,7 @@ CamdenDAO complies with:
 
 ---
 
-## 🧾 Licensing & Credit
+## Licensing & Credit
 
 - Licensed under **Community Tech Commons Agreement (2025 Draft)**  
 - Attribution: “Built on the Curiosity Project’s CamdenDAO Framework”  
@@ -166,7 +166,7 @@ CamdenDAO complies with:
 
 ---
 
-## ™ Trademark Notice
+## Trademark Notice
 
 See [TRADEMARK.md](./TRADEMARK.md) for full brand guidelines.
 
@@ -175,7 +175,7 @@ See [TRADEMARK.md](./TRADEMARK.md) for full brand guidelines.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Project Steward:** Maritza Alston  
 **Base Clinic:** Camden Commons Clinic  
