@@ -1,8 +1,4 @@
 
-from pathlib import Path
-
-# Recreate the complete whitepaper content due to environment reset
-whitepaper_full = """
 # CamdenDAO: The Curiosity Project Protocol
 ## A Decentralized Health, Consent, and Dividend Infrastructure
 **© 2025 Maritza Alston • The Curiosity Project • Camden Commons Clinic**
