@@ -161,8 +161,3 @@ Unauthorized commercial use is not permitted without written consent.
 **Repo:** https://github.com/curiosity-project/camdendao
 """
 
-# Save to markdown file
-whitepaper_path = Path("/mnt/data/CamdenDAO_Whitepaper_Updated.md")
-whitepaper_path.write_text(whitepaper_full)
-
-whitepaper_path
