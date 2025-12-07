@@ -1,4 +1,8 @@
 
+from pathlib import Path
+
+# Recreate the complete whitepaper content due to environment reset
+whitepaper_full = """
 # CamdenDAO: The Curiosity Project Protocol
 ## A Decentralized Health, Consent, and Dividend Infrastructure
 **© 2025 Maritza Alston • The Curiosity Project • Camden Commons Clinic**
@@ -57,15 +61,21 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 **Total Supply**: 100 million $MAP  
 **Emission**: 10-year unlock with community votes governing adjustments.
 
+---
+
 ### 2. ConsentLedger.sol
 
 - Tracks on-chain consent actions by wallet and topic
 - Transparent, auditable, and fully indexable
 
+---
+
 ### 3. Waste Detector (v1)
 
 - Off-chain tool scanning billing anomalies
 - Routes findings to DAO review and dividend calculations
+
+---
 
 ### 4. Camden Commons Dividend Engine
 
@@ -96,7 +106,10 @@ Transparency builds trust—and CamdenDAO believes justice should teach, not exi
 ### Fork Governance  
 In cases of deep disagreement, proposals may fork.  
 DAO members choose their path, and both remain visible in the Consent Dashboard.
-## Local Value Capture: Digital Toll Booth Proposal (In Review)
+
+---
+
+### Local Value Capture: Digital Toll Booth Proposal (In Review)
 
 A future CamdenDAO proposal explores introducing a micro-dividend model—a **local internet toll booth** logic that allocates a percentage of DAO-aligned service revenue back to the community treasury.
 
@@ -106,8 +119,6 @@ This model would:
 - Route dividends transparently to health upgrades, training hubs, or innovation grants
 
 This proposal is under review and would be governed via on-chain vote.
-
-
 
 ---
 
@@ -134,8 +145,11 @@ CamdenDAO aligns with:
 - Licensed under the Community Tech Commons Agreement (2025 Draft)
 - Attribution required: “Built on the Curiosity Project’s CamdenDAO Framework”
 - All smart contracts open-sourced under MIT/GPL hybrid license
+
 ---
+
 ## Trademark Notice
+
 - See [TRADEMARK.md](./TRADEMARK.md) for CamdenDAO's trademark and branding terms.
 
 CamdenDAO™ and The Curiosity Project™ are trademarks of Maritza Alston and/or Camden Commons Clinic.  
@@ -147,7 +161,12 @@ Unauthorized commercial use is not permitted without written consent.
 
 **Project Steward:** Maritza Alston  
 **Base Clinic:** Camden Commons Clinic  
-**DAO Hub:** https://camdendao.github.io/CamdenDAO/
+**DAO Hub:** https://camdendao.github.io/CamdenDAO/  
+**Repo:** https://github.com/curiosity-project/camdendao
+"""
 
-]  
-**Repo:** github.com/curiosity-project/camdendao  
+# Save to markdown file
+whitepaper_path = Path("/mnt/data/CamdenDAO_Whitepaper_Updated.md")
+whitepaper_path.write_text(whitepaper_full)
+
+whitepaper_path
