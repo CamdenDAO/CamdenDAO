@@ -59,7 +59,7 @@ Inspired by *Stable Genius 3*, CamdenDAO implements:
 **Total Supply:** 100 million $MAP  
 **Emission:** 10-year unlock with community-governed adjustment
 
-
+assets/MAP-Tokenomics-Allocation.png
 ---
 
 ### ConsentLedger.sol
