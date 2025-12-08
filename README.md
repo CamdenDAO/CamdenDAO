@@ -6,7 +6,7 @@ Welcome to **CamdenDAO**, a decentralized protocol for health equity, consent-fi
 
 ## 🚀 Quick Start
 
--  [Whitepaper](./docs/camdendao_whitepaper.md)
+-  [Whitepaper](docs/Whitepaper.md)
 -  [Tokenomics Chart](./assets/MAP-Tokenomics-Allocation.png)
 -  [ConsentLedger.sol](./contracts/ConsentLedger.sol)
 -  [DAO Hub Site](https://camdendao.github.io/CamdenDAO/)
