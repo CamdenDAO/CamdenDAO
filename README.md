@@ -1,35 +1,36 @@
-# CamdenDAO
+# CamdenDAO: The Curiosity Project Protocol
 
-**A decentralized protocol for consent, care, and community dividends.**
+Welcome to **CamdenDAO**, a decentralized protocol for health equity, consent-first infrastructure, and community dividends. Built by The Curiosity Project and Camden Commons Clinic, this project reimagines care through transparent, programmable systems that prioritize people—not just data.
 
-CamdenDAO is a community-driven initiative emerging from The Curiosity Project and *Stable Genius*. We’re building a governance layer for real-world equity using web3 tools — with health care as our first use case.
+---
 
-## What We’re Doing
+## 🚀 Quick Start
 
-- Enabling patients to **track consent**
-- Reducing **waste in billing systems**
-- Sharing **dividends with the community** when outcomes improve
+-  [Whitepaper](./docs/camdendao_whitepaper.md)
+-  [Tokenomics Chart](./assets/MAP-Tokenomics-Allocation.png)
+-  [ConsentLedger.sol](./contracts/ConsentLedger.sol)
+-  [DAO Hub Site](https://camdendao.github.io/CamdenDAO/)
 
-## Pilot Site
+---
 
-Camden Commons Clinic will be the first test location for:
+## Key Concepts
 
-- Smart contracts that log consent and usage
-- Dashboards for stakeholders
-- $MAP token staking and dividends
+- **$MAP Token**: Community-owned staking & reward system
+- **Consent Ledger**: Verifiable digital consent on-chain
+- **Waste Detector**: Identifies billing errors and redirects value
+- **Dashboard**: Tracks dividends, consent, governance, and contributions
 
-## Status
+---
 
-We’re preparing for testnet launch (Dec 2025) on the Ethereum Sepolia network. Smart contracts and documentation are in development.
+## Join the Project
 
-## Learn More
+This is a work in progress. Contributions are welcome!
 
-- 📄 Learn More
+- File a proposal or issue
+- Share feedback on the [Consent Trace Dashboard](#)
+- Follow along in the Civic Cleanup DAO pilot
 
-- [Whitepaper v0.9 (PDF)](CamdenDAO_Whitepaper_Draft.md)
+---
 
-- [Join our Advisory Circle](mailto:njrit500@gmail.com)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+© 2025 Maritza Alston • Camden Commons Clinic • The Curiosity Project  
+Licensed under the Community Tech Commons Agreement
