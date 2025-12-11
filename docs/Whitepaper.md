@@ -133,7 +133,7 @@ A future DAO vote may introduce a **local internet toll logic**—a micro-divide
   - Youth training hubs  
   - Local health infrastructure
 
-(docs/Civic Cleanup Loop-Toll DAO Pilot)
+[Read Full Proposal](docs/Civic Cleanup Loop-Toll DAO Pilot)
 
 
 ---
